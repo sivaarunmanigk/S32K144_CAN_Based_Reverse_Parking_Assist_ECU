@@ -98,7 +98,7 @@ The database documents the CAN message identifiers and associated signal definit
 
 ### CANdb++ Screenshot
 
-![CANdb++ DBC Design](Screenshots/02_CANdb_DBC_Design.png)
+<img width="1919" height="1143" alt="image" src="https://github.com/user-attachments/assets/264f1b5c-5c2f-4a13-a4ea-c2905e2f9ee9" />
 
 *Insert your actual CANdb++ screenshot showing message identifiers, signal definitions, and message properties.*
 
@@ -110,15 +110,10 @@ The simulation scenarios cover different gear values and distance inputs to eval
 
 ### TSMaster Configuration
 
-![TSMaster Configuration](Screenshots/03_TSMaster_Configuration.png)
+<img width="1916" height="1133" alt="image" src="https://github.com/user-attachments/assets/1c2aa8c4-db00-429b-b35e-b5c647413d71" />
+
 
 *Insert your actual TSMaster configuration screenshot.*
-
-### CAN Message Monitoring
-
-![TSMaster CAN Trace](Screenshots/04_TSMaster_CAN_Trace.png)
-
-*Insert your actual CAN trace showing message IDs, payload bytes, and timestamps where available.*
 
 ## 8. Embedded Firmware Implementation
 
@@ -158,7 +153,11 @@ The physical indicator state depends on the GPIO pin configuration and whether t
 
 ### Firmware Screenshot
 
-![S32 Design Studio Firmware](Screenshots/05_S32DS_Firmware.png)
+<img width="1919" height="1141" alt="image" src="https://github.com/user-attachments/assets/8d06d6a9-65b4-4e47-9c37-bcb12a51d178" />
+
+<img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/b48f87f1-be81-44ea-86a5-b1da3b0f40a1" />
+
+<img width="1919" height="1143" alt="image" src="https://github.com/user-attachments/assets/b1e04c3f-0f94-4914-bcde-23ca068bb0b3" />
 
 *Insert your actual S32 Design Studio screenshot showing the CAN reception and parking-control implementation.*
 
@@ -190,7 +189,7 @@ These examples assume that the values are transmitted in the first data byte.
 
 The output validation stage involves checking the behavior of the configured GPIO outputs under different gear and distance conditions.
 
-![Output Testing](Screenshots/06_Output_Testing.png)
+![Youtube Demo Video](Screenshots/06_Output_Testing.png)
 
 *Insert a genuine screenshot or photograph of your tested outputs, board indicators, or other relevant test evidence.*
 
