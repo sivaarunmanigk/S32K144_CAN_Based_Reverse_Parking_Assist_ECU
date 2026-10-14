@@ -231,7 +231,9 @@ The scope of completed validation should reflect the tests actually performed. T
 
 ## Author
 
-**Sivaarunmani G K**
+### SIVAARUNMANI G K
+Electronics and Communication Engineering · Automotive Embedded Systems
 
-- GitHub: https://github.com/sivaarunmanigk
-- LinkedIn: https://www.linkedin.com/in/sivaarunmanigk/
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/sivaarunmanigk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?logo=vercel&logoColor=white)](https://sivaarunmani.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/sivaarunmanigk)
