@@ -100,7 +100,6 @@ The database documents the CAN message identifiers and associated signal definit
 
 <img width="1919" height="1143" alt="image" src="https://github.com/user-attachments/assets/264f1b5c-5c2f-4a13-a4ea-c2905e2f9ee9" />
 
-*Insert your actual CANdb++ screenshot showing message identifiers, signal definitions, and message properties.*
 
 ## 7. CAN Simulation Using TSMaster
 
@@ -112,8 +111,6 @@ The simulation scenarios cover different gear values and distance inputs to eval
 
 <img width="1916" height="1133" alt="image" src="https://github.com/user-attachments/assets/1c2aa8c4-db00-429b-b35e-b5c647413d71" />
 
-
-*Insert your actual TSMaster configuration screenshot.*
 
 ## 8. Embedded Firmware Implementation
 
@@ -159,7 +156,6 @@ The physical indicator state depends on the GPIO pin configuration and whether t
 
 <img width="1919" height="1143" alt="image" src="https://github.com/user-attachments/assets/b1e04c3f-0f94-4914-bcde-23ca068bb0b3" />
 
-*Insert your actual S32 Design Studio screenshot showing the CAN reception and parking-control implementation.*
 
 ## 9. Functional Test Scenarios
 
@@ -191,7 +187,6 @@ The output validation stage involves checking the behavior of the configured GPI
 
 ![Youtube Demo Video](Screenshots/06_Output_Testing.png)
 
-*Insert a genuine screenshot or photograph of your tested outputs, board indicators, or other relevant test evidence.*
 
 ## 11. Current Limitations
 
@@ -226,41 +221,8 @@ The output validation stage involves checking the behavior of the configured GPI
 - S32 SDK Peripheral Drivers
 - ECU Functional Testing
 
-## 14. Project Structure
 
-```text
-S32K144-CAN-Based-Reverse-Parking-Assist-ECU/
-|
-+-- Parking_System_project/
-|   +-- board/
-|   +-- doc/
-|   +-- Project_Settings/
-|   +-- SDK/
-|   +-- src/
-|   +-- .project
-|   +-- .cproject
-|   +-- Parking_System_project.mex
-|
-+-- CAN_Database/
-|   +-- Reverse_Parking_Assist.dbc
-|
-+-- Screenshots/
-|   +-- 01_Project_Structure.png
-|   +-- 02_CANdb_DBC_Design.png
-|   +-- 03_TSMaster_Configuration.png
-|   +-- 04_TSMaster_CAN_Trace.png
-|   +-- 05_S32DS_Firmware.png
-|   +-- 06_Output_Testing.png
-|
-+-- Documentation/
-|   +-- Test_Cases.md
-|
-+-- README.md
-```
-
-Adjust the folder names to match the files actually included in the repository. Include SDK files only when permitted by their licensing terms and needed to reproduce the project.
-
-## 15. Project Status
+## 14. Project Status
 
 **Automotive embedded ECU prototype with CAN database development and TSMaster-based simulation.**
 
