@@ -185,7 +185,8 @@ These examples assume that the values are transmitted in the first data byte.
 
 The output validation stage involves checking the behavior of the configured GPIO outputs under different gear and distance conditions.
 
-![Youtube Demo Video](Screenshots/06_Output_Testing.png)
+## DEMO VIDEO: 
+https://youtu.be/LOTT_bqeoOI
 
 
 ## 11. Current Limitations
